@@ -1,1 +1,1 @@
-console.log('Iniciando el sistema...);
+console.log('Iniciando el sistema...');
